@@ -35,9 +35,11 @@ Usage
 The collama.sh script offers the following commands:
  * Install and Start Ollama (default): Running bash collama.sh without any arguments will install Ollama (if it's not already installed) and start the Ollama server in the background.
  * Stop Ollama Server:
+   ```bash
    bash collama.sh stop
 
  * Display Help Message:
+   ```bash
    bash collama.sh help
 
 Contributing
