@@ -21,7 +21,7 @@ This repository provides a robust and user-friendly script, `collama.sh`, design
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/rahilsk203/Ollama-Termux.git](https://github.com/rahilsk203/Ollama-Termux.git)
+   git clone https://github.com/rahilsk203/Ollama-Termux.git
 
  * Navigate to the directory:
    cd Ollama-Termux
